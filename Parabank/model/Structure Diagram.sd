@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.conformiq.creator.structure.dsl="http://www.conformiq.com/emf/14/StructureDiagram" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmi:id="_E34D8K9FEei5Oc5GkzzHBg" type="Dsl" name="Structure%20Diagram.sd" measurementUnit="Pixel">
+  <children xmi:type="notation:Node" xmi:id="_MgD9UK9FEei5Oc5GkzzHBg" type="2007">
+    <children xmi:type="notation:DecorationNode" xmi:id="_MgHAoK9FEei5Oc5GkzzHBg" type="5082"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_MgIOwK9FEei5Oc5GkzzHBg" type="7032">
+      <children xmi:type="notation:Shape" xmi:id="_Snhq0K9FEei5Oc5GkzzHBg" type="3054" fontName="Ubuntu">
+        <children xmi:type="notation:DecorationNode" xmi:id="_SniR4K9FEei5Oc5GkzzHBg" type="5078"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_SniR4a9FEei5Oc5GkzzHBg" type="5079"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:PrimitiveField" href="Structure%20Diagram.sl#qml53585afdd2d4424382fda5789c6a7741"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Snhq0a9FEei5Oc5GkzzHBg"/>
+      </children>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_MgIOwa9FEei5Oc5GkzzHBg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_MgIOwq9FEei5Oc5GkzzHBg"/>
+    </children>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_MgD9Ua9FEei5Oc5GkzzHBg"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_MgD9Uq9FEei5Oc5GkzzHBg" fontName="Ubuntu"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_MgD9U69FEei5Oc5GkzzHBg"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_MgD9VK9FEei5Oc5GkzzHBg"/>
+    <element xmi:type="com.conformiq.creator.structure.dsl:CustomAction" href="Structure%20Diagram.sl#qmlb0c89fd8bd1a4ebe8d78d7ba5b5ee8b1"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_MgD9Va9FEei5Oc5GkzzHBg" x="53" y="4"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_M9s7kK9FEei5Oc5GkzzHBg" type="2006">
+    <children xmi:type="notation:DecorationNode" xmi:id="_M9uJsK9FEei5Oc5GkzzHBg" type="5048"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_M9uwwK9FEei5Oc5GkzzHBg" type="5053"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_M9s7ka9FEei5Oc5GkzzHBg"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_M9s7kq9FEei5Oc5GkzzHBg" fontName="Ubuntu"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_M9tioK9FEei5Oc5GkzzHBg"/>
+    <element xmi:type="com.conformiq.creator.structure.dsl:ExternalInterface" href="Structure%20Diagram.sl#qml65b9b350c5914a328d4c7ab7d0d14f4b"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_M9tioa9FEei5Oc5GkzzHBg" x="214" y="18"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_lcF9EK9FEei5Oc5GkzzHBg" type="2003">
+    <children xmi:type="notation:DecorationNode" xmi:id="_lcGkIK9FEei5Oc5GkzzHBg" type="5037"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_lcGkIa9FEei5Oc5GkzzHBg" type="7003">
+      <children xmi:type="notation:Node" xmi:id="_pRQ30K9FEei5Oc5GkzzHBg" type="3007">
+        <children xmi:type="notation:DecorationNode" xmi:id="_pRRe5K9FEei5Oc5GkzzHBg" type="5015"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_pRSF8K9FEei5Oc5GkzzHBg" type="7004">
+          <children xmi:type="notation:Shape" xmi:id="_tIgPIK9FEei5Oc5GkzzHBg" type="3010" fontName="Ubuntu">
+            <children xmi:type="notation:DecorationNode" xmi:id="_tIhdQK9FEei5Oc5GkzzHBg" type="5011"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_tIiEUK9FEei5Oc5GkzzHBg" type="5058"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:TextBox" href="Structure%20Diagram.sl#qml98664d8041744909919fa66f5b118f45"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tIgPIa9FEei5Oc5GkzzHBg" x="15" y="13"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_uwBmkK9FEei5Oc5GkzzHBg" type="3010" fontName="Ubuntu">
+            <children xmi:type="notation:DecorationNode" xmi:id="_uwCNoK9FEei5Oc5GkzzHBg" type="5011"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_uwC0sK9FEei5Oc5GkzzHBg" type="5058"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:TextBox" href="Structure%20Diagram.sl#qmlcd4faafb604748b790100accc9f15abf"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_uwBmka9FEei5Oc5GkzzHBg" x="205" y="8"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_vnuDkK9FEei5Oc5GkzzHBg" type="3010" fontName="Ubuntu">
+            <children xmi:type="notation:DecorationNode" xmi:id="_vnuqoK9FEei5Oc5GkzzHBg" type="5011"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_vnuqoa9FEei5Oc5GkzzHBg" type="5058"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:TextBox" href="Structure%20Diagram.sl#qmlb9a201cfb6f249f9b1a50fa4dfaab776"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vnuDka9FEei5Oc5GkzzHBg" x="25" y="48"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_wpozkK9FEei5Oc5GkzzHBg" type="3010" fontName="Ubuntu">
+            <children xmi:type="notation:DecorationNode" xmi:id="_wppaoK9FEei5Oc5GkzzHBg" type="5011"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_wppaoa9FEei5Oc5GkzzHBg" type="5058"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:TextBox" href="Structure%20Diagram.sl#qmlea8f71bd36b3411aaefa632c73465e1a"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wpozka9FEei5Oc5GkzzHBg" x="230" y="43"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_xm5tEK9FEei5Oc5GkzzHBg" type="3010" fontName="Ubuntu">
+            <children xmi:type="notation:DecorationNode" xmi:id="_xm6UIK9FEei5Oc5GkzzHBg" type="5011"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_xm6UIa9FEei5Oc5GkzzHBg" type="5058"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:TextBox" href="Structure%20Diagram.sl#qmla7d73ef8bf50475594bacf7614638a38"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xm5tEa9FEei5Oc5GkzzHBg" x="35" y="83"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_ywhAgK9FEei5Oc5GkzzHBg" type="3010" fontName="Ubuntu">
+            <children xmi:type="notation:DecorationNode" xmi:id="_ywiOoK9FEei5Oc5GkzzHBg" type="5011"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_ywiOoa9FEei5Oc5GkzzHBg" type="5058"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:TextBox" href="Structure%20Diagram.sl#qml0bac4ccfbdae4bbeaf84ffc294cdfe51"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ywhAga9FEei5Oc5GkzzHBg" x="190" y="83"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_zeTTkK9FEei5Oc5GkzzHBg" type="3010" fontName="Ubuntu">
+            <children xmi:type="notation:DecorationNode" xmi:id="_zeT6oK9FEei5Oc5GkzzHBg" type="5011"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_zeUhsK9FEei5Oc5GkzzHBg" type="5058"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:TextBox" href="Structure%20Diagram.sl#qmld91cb126057a4dabb8389704e29fcc28"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zeTTka9FEei5Oc5GkzzHBg" x="30" y="128"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_0JQVEK9FEei5Oc5GkzzHBg" type="3010" fontName="Ubuntu">
+            <children xmi:type="notation:DecorationNode" xmi:id="_0JQVEq9FEei5Oc5GkzzHBg" type="5011"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_0JQ8IK9FEei5Oc5GkzzHBg" type="5058"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:TextBox" href="Structure%20Diagram.sl#qml1c2231f7662844d59ad9fef0d1ed0d9a"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0JQVEa9FEei5Oc5GkzzHBg" x="205" y="128"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_4rHWsK9FEei5Oc5GkzzHBg" type="3010" fontName="Ubuntu">
+            <children xmi:type="notation:DecorationNode" xmi:id="_4rIk0K9FEei5Oc5GkzzHBg" type="5011"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_4rIk0a9FEei5Oc5GkzzHBg" type="5058"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:TextBox" href="Structure%20Diagram.sl#qml010e003b6fa34989b976aed37cc2b657"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4rHWsa9FEei5Oc5GkzzHBg" x="25" y="178"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_51GdkK9FEei5Oc5GkzzHBg" type="3010" fontName="Ubuntu">
+            <children xmi:type="notation:DecorationNode" xmi:id="_51HEoK9FEei5Oc5GkzzHBg" type="5011"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_51HEoa9FEei5Oc5GkzzHBg" type="5058"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:TextBox" href="Structure%20Diagram.sl#qml50c3db6d2cbf49d09f4183c8aab29fa1"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_51Gdka9FEei5Oc5GkzzHBg" x="215" y="188"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_7oZAIK9FEei5Oc5GkzzHBg" type="3010" fontName="Ubuntu">
+            <children xmi:type="notation:DecorationNode" xmi:id="_7oZnMK9FEei5Oc5GkzzHBg" type="5011"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_7oZnMa9FEei5Oc5GkzzHBg" type="5058"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:TextBox" href="Structure%20Diagram.sl#qml6bed880e2a7543698640c1f96425d7e6"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_7oZAIa9FEei5Oc5GkzzHBg" x="230" y="233"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_uO9ZgK9IEeix9MU2ScmHYw" type="3008">
+            <children xmi:type="notation:DecorationNode" xmi:id="_uO-noK9IEeix9MU2ScmHYw" type="5009"/>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_uO9Zga9IEeix9MU2ScmHYw"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_uO9Zgq9IEeix9MU2ScmHYw" fontName="Ubuntu"/>
+            <styles xmi:type="notation:LineStyle" xmi:id="_uO9Zg69IEeix9MU2ScmHYw"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:Button" href="Structure%20Diagram.sl#qml392306055ba84a70a224631417f3e939"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_uO9ZhK9IEeix9MU2ScmHYw" x="52" y="245"/>
+          </children>
+        </children>
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="_pRQ30a9FEei5Oc5GkzzHBg"/>
+        <styles xmi:type="notation:FontStyle" xmi:id="_pRRe4K9FEei5Oc5GkzzHBg" fontName="Ubuntu"/>
+        <styles xmi:type="notation:LineStyle" xmi:id="_pRRe4a9FEei5Oc5GkzzHBg"/>
+        <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_pRRe4q9FEei5Oc5GkzzHBg"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:Form" href="Structure%20Diagram.sl#qml7d03f4c7630248f989fd9ff0fd2a42d9"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_pRRe469FEei5Oc5GkzzHBg" x="5" y="8" width="406" height="346"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_gQBZcK9IEeix9MU2ScmHYw" type="3007">
+        <children xmi:type="notation:DecorationNode" xmi:id="_gQCnkK9IEeix9MU2ScmHYw" type="5015"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_gQCnka9IEeix9MU2ScmHYw" type="7004">
+          <children xmi:type="notation:Shape" xmi:id="_gQHgEK9IEeix9MU2ScmHYw" type="3010" fontName="Ubuntu">
+            <children xmi:type="notation:DecorationNode" xmi:id="_gQIHIK9IEeix9MU2ScmHYw" type="5011"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_gQIHIa9IEeix9MU2ScmHYw" type="5058"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:TextBox" href="Structure%20Diagram.sl#qml14591b2d939b4161bbe65a2bb5021fb3"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gQHgEa9IEeix9MU2ScmHYw" x="20" y="3" width="141" height="26"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_gQIuMK9IEeix9MU2ScmHYw" type="3010" fontName="Ubuntu">
+            <children xmi:type="notation:DecorationNode" xmi:id="_gQIuMq9IEeix9MU2ScmHYw" type="5011"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_gQIuM69IEeix9MU2ScmHYw" type="5058"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:TextBox" href="Structure%20Diagram.sl#qml3c530ca594ae42a896adebe23c9b5282"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gQIuMa9IEeix9MU2ScmHYw" x="35" y="38" width="131" height="26"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_v5YT8K9IEeix9MU2ScmHYw" type="3008">
+            <children xmi:type="notation:DecorationNode" xmi:id="_v5Y7AK9IEeix9MU2ScmHYw" type="5009"/>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_v5YT8a9IEeix9MU2ScmHYw"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_v5YT8q9IEeix9MU2ScmHYw" fontName="Ubuntu"/>
+            <styles xmi:type="notation:LineStyle" xmi:id="_v5YT869IEeix9MU2ScmHYw"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:Button" href="Structure%20Diagram.sl#qml56fe9341d808447d804b3695303e65db"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_v5YT9K9IEeix9MU2ScmHYw" x="95" y="89"/>
+          </children>
+        </children>
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="_gQBZca9IEeix9MU2ScmHYw"/>
+        <styles xmi:type="notation:FontStyle" xmi:id="_gQBZcq9IEeix9MU2ScmHYw" fontName="Ubuntu"/>
+        <styles xmi:type="notation:LineStyle" xmi:id="_gQBZc69IEeix9MU2ScmHYw"/>
+        <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_gQBZdK9IEeix9MU2ScmHYw"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:Form" href="Structure%20Diagram.sl#qmlaa010b2d6eca4fd58b2fbb4328e1b3e1"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gQBZda9IEeix9MU2ScmHYw" x="435" y="43" width="206" height="191"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_rAgggK9IEeix9MU2ScmHYw" type="3069">
+        <children xmi:type="notation:DecorationNode" xmi:id="_rAhHkK9IEeix9MU2ScmHYw" type="5109"/>
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="_rAggga9IEeix9MU2ScmHYw"/>
+        <styles xmi:type="notation:FillStyle" xmi:id="_rAgggq9IEeix9MU2ScmHYw"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:LabelWidget" href="Structure%20Diagram.sl#qml30bdc41ccd344f9d8c52dfb82793b83f"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_rAggg69IEeix9MU2ScmHYw" x="509" y="7"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_qq4voK9lEeiBzMZl1Wu_vA" type="3015">
+        <children xmi:type="notation:DecorationNode" xmi:id="_qq5WsK9lEeiBzMZl1Wu_vA" type="5017"/>
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="_qq4voa9lEeiBzMZl1Wu_vA"/>
+        <styles xmi:type="notation:FillStyle" xmi:id="_qq4voq9lEeiBzMZl1Wu_vA"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:Hyperlink" href="Structure%20Diagram.sl#qml6d544a30020c4e8982da0561178aeb47"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qq4vo69lEeiBzMZl1Wu_vA" x="476" y="271"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="__HhHsK9sEeiK_7q-RU9GHA" type="3015">
+        <children xmi:type="notation:DecorationNode" xmi:id="__HhuwK9sEeiK_7q-RU9GHA" type="5017"/>
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="__HhHsa9sEeiK_7q-RU9GHA"/>
+        <styles xmi:type="notation:FillStyle" xmi:id="__HhHsq9sEeiK_7q-RU9GHA"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:Hyperlink" href="Structure%20Diagram.sl#qmlfa241bf681f34f7babc47105079ab447"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="__HhHs69sEeiK_7q-RU9GHA" x="492" y="308"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_LmzLgK9wEeiK_7q-RU9GHA" type="3015">
+        <children xmi:type="notation:DecorationNode" xmi:id="_LmzykK9wEeiK_7q-RU9GHA" type="5017"/>
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="_LmzLga9wEeiK_7q-RU9GHA"/>
+        <styles xmi:type="notation:FillStyle" xmi:id="_LmzLgq9wEeiK_7q-RU9GHA"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:Hyperlink" href="Structure%20Diagram.sl#qmlc8a7b37a6c314338b79362b4bbba07eb"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_LmzLg69wEeiK_7q-RU9GHA" x="586" y="272"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_y-3XAK9wEeiK_7q-RU9GHA" type="3015">
+        <children xmi:type="notation:DecorationNode" xmi:id="_y-3XBK9wEeiK_7q-RU9GHA" type="5017"/>
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="_y-3XAa9wEeiK_7q-RU9GHA"/>
+        <styles xmi:type="notation:FillStyle" xmi:id="_y-3XAq9wEeiK_7q-RU9GHA"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:Hyperlink" href="Structure%20Diagram.sl#qmlaf60c522d12a4915ab9a36c7b5d441b0"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_y-3XA69wEeiK_7q-RU9GHA" x="447" y="350"/>
+      </children>
+    </children>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_lcF9Ea9FEei5Oc5GkzzHBg"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_lcF9Eq9FEei5Oc5GkzzHBg" fontName="Ubuntu"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_lcF9E69FEei5Oc5GkzzHBg"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_lcF9FK9FEei5Oc5GkzzHBg"/>
+    <element xmi:type="com.conformiq.creator.structure.dsl:Screen" href="Structure%20Diagram.sl#qml7a9fe3c63a6d4f4481848799fc0735fa"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lcF9Fa9FEei5Oc5GkzzHBg" x="420" width="696" height="416"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_mYooYK9GEei5Oc5GkzzHBg" type="2003">
+    <children xmi:type="notation:DecorationNode" xmi:id="_mYpPcK9GEei5Oc5GkzzHBg" type="5037"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_mYpPca9GEei5Oc5GkzzHBg" type="7003"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_mYooYa9GEei5Oc5GkzzHBg"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_mYooYq9GEei5Oc5GkzzHBg" fontName="Ubuntu"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_mYooY69GEei5Oc5GkzzHBg"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_mYooZK9GEei5Oc5GkzzHBg"/>
+    <element xmi:type="com.conformiq.creator.structure.dsl:Screen" href="Structure%20Diagram.sl#qmlf38a27ec406542958adfe0c02a0f2668"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mYooZa9GEei5Oc5GkzzHBg" x="87" y="343"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_VZffUK9JEeix9MU2ScmHYw" type="2003">
+    <children xmi:type="notation:DecorationNode" xmi:id="_VZgGZa9JEeix9MU2ScmHYw" type="5037"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_VZgGZq9JEeix9MU2ScmHYw" type="7003">
+      <children xmi:type="notation:Node" xmi:id="_WeW1oK9JEeix9MU2ScmHYw" type="3007">
+        <children xmi:type="notation:DecorationNode" xmi:id="_WeW1pq9JEeix9MU2ScmHYw" type="5015"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_WeW1p69JEeix9MU2ScmHYw" type="7004">
+          <children xmi:type="notation:Shape" xmi:id="_XUiPsK9JEeix9MU2ScmHYw" type="3010" fontName="Ubuntu">
+            <children xmi:type="notation:DecorationNode" xmi:id="_XUiPsq9JEeix9MU2ScmHYw" type="5011"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_XUiPs69JEeix9MU2ScmHYw" type="5058"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:TextBox" href="Structure%20Diagram.sl#qmlb2246e1411a342659eb79e4318470e5c"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XUiPsa9JEeix9MU2ScmHYw" x="14" y="8"/>
+          </children>
+        </children>
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="_WeW1oa9JEeix9MU2ScmHYw"/>
+        <styles xmi:type="notation:FontStyle" xmi:id="_WeW1oq9JEeix9MU2ScmHYw" fontName="Ubuntu"/>
+        <styles xmi:type="notation:LineStyle" xmi:id="_WeW1o69JEeix9MU2ScmHYw"/>
+        <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_WeW1pK9JEeix9MU2ScmHYw"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:Form" href="Structure%20Diagram.sl#qmlb97f110072b846709400459e2f295eff"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WeW1pa9JEeix9MU2ScmHYw" x="6" y="14" width="136" height="101"/>
+      </children>
+    </children>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_VZgGYK9JEeix9MU2ScmHYw"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_VZgGYa9JEeix9MU2ScmHYw" fontName="Ubuntu"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_VZgGYq9JEeix9MU2ScmHYw"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_VZgGY69JEeix9MU2ScmHYw"/>
+    <element xmi:type="com.conformiq.creator.structure.dsl:Screen" href="Structure%20Diagram.sl#qml3fc9dbe3e65a474cbcbecdc7aa6e5326"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VZgGZK9JEeix9MU2ScmHYw" x="209" y="99" width="152" height="172"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_yaPoAK9lEeiBzMZl1Wu_vA" type="2003">
+    <children xmi:type="notation:DecorationNode" xmi:id="_yaQPEK9lEeiBzMZl1Wu_vA" type="5037"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_yaQPEa9lEeiBzMZl1Wu_vA" type="7003">
+      <children xmi:type="notation:Node" xmi:id="_5625wK9lEeiBzMZl1Wu_vA" type="3007">
+        <children xmi:type="notation:DecorationNode" xmi:id="_563g0K9lEeiBzMZl1Wu_vA" type="5015"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_564H4K9lEeiBzMZl1Wu_vA" type="7004">
+          <children xmi:type="notation:Shape" xmi:id="_B5TXAK9mEeiBzMZl1Wu_vA" type="3013" fontName="Ubuntu">
+            <children xmi:type="notation:DecorationNode" xmi:id="_B5UlIK9mEeiBzMZl1Wu_vA" type="5014"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_B5UlIa9mEeiBzMZl1Wu_vA" type="5059"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:RadioButtonEnumeration" href="Structure%20Diagram.sl#qmld34ec21ce2794af89d10dc4804d7101c"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_B5TXAa9mEeiBzMZl1Wu_vA" x="40" y="8" height="97"/>
+          </children>
+        </children>
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="_5625wa9lEeiBzMZl1Wu_vA"/>
+        <styles xmi:type="notation:FontStyle" xmi:id="_5625wq9lEeiBzMZl1Wu_vA" fontName="Ubuntu"/>
+        <styles xmi:type="notation:LineStyle" xmi:id="_5625w69lEeiBzMZl1Wu_vA"/>
+        <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_5625xK9lEeiBzMZl1Wu_vA"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:Form" href="Structure%20Diagram.sl#qmla0a79372d69d4d3f80685cc970e7f27a"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5625xa9lEeiBzMZl1Wu_vA" x="30" y="18" width="331" height="151"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_OjRIMK9mEeiBzMZl1Wu_vA" type="3007">
+        <children xmi:type="notation:DecorationNode" xmi:id="_OjRvQK9mEeiBzMZl1Wu_vA" type="5015"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_OjRvQa9mEeiBzMZl1Wu_vA" type="7004">
+          <children xmi:type="notation:Shape" xmi:id="_RwM-QK9mEeiBzMZl1Wu_vA" type="3010" fontName="Ubuntu">
+            <children xmi:type="notation:DecorationNode" xmi:id="_RwNlUK9mEeiBzMZl1Wu_vA" type="5011"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_RwNlUa9mEeiBzMZl1Wu_vA" type="5058"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:TextBox" href="Structure%20Diagram.sl#qmlbd9f878100c54013be2dfd262e5b3e43"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_RwM-Qa9mEeiBzMZl1Wu_vA" x="31" y="13"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_TX8_MK9mEeiBzMZl1Wu_vA" type="3010" fontName="Ubuntu">
+            <children xmi:type="notation:DecorationNode" xmi:id="_TX9mQK9mEeiBzMZl1Wu_vA" type="5011"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_TX9mQa9mEeiBzMZl1Wu_vA" type="5058"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:TextBox" href="Structure%20Diagram.sl#qml3ed96082d05a479ab57a2c3f7f91c9ae"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_TX8_Ma9mEeiBzMZl1Wu_vA" x="224" y="6"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_Zmng4K9mEeiBzMZl1Wu_vA" type="3012" fontName="Ubuntu">
+            <children xmi:type="notation:DecorationNode" xmi:id="_Zmng4q9mEeiBzMZl1Wu_vA" type="5013"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_ZmoH8K9mEeiBzMZl1Wu_vA" type="5064"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_ZmoH8a9mEeiBzMZl1Wu_vA" type="5065"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:DropdownEnumeration" href="Structure%20Diagram.sl#qml5767583d1e8548eeb799b5fed6ba75de"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Zmng4a9mEeiBzMZl1Wu_vA" x="13" y="56"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_bDPP4K9mEeiBzMZl1Wu_vA" type="3012" fontName="Ubuntu">
+            <children xmi:type="notation:DecorationNode" xmi:id="_bDP28K9mEeiBzMZl1Wu_vA" type="5013"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_bDP28a9mEeiBzMZl1Wu_vA" type="5064"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_bDP28q9mEeiBzMZl1Wu_vA" type="5065"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:DropdownEnumeration" href="Structure%20Diagram.sl#qml72ab166e77e04843a6e8e27ec82f7715"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bDPP4a9mEeiBzMZl1Wu_vA" x="242" y="59"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_e7kMUK9mEeiBzMZl1Wu_vA" type="3010" fontName="Ubuntu">
+            <children xmi:type="notation:DecorationNode" xmi:id="_e7lacK9mEeiBzMZl1Wu_vA" type="5011"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_e7laca9mEeiBzMZl1Wu_vA" type="5058"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:TextBox" href="Structure%20Diagram.sl#qml27d02b5a6d274efd81e713b8a4afc812"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_e7kzYK9mEeiBzMZl1Wu_vA" x="54" y="98" width="121" height="26"/>
+          </children>
+        </children>
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="_OjRIMa9mEeiBzMZl1Wu_vA"/>
+        <styles xmi:type="notation:FontStyle" xmi:id="_OjRIMq9mEeiBzMZl1Wu_vA" fontName="Ubuntu"/>
+        <styles xmi:type="notation:LineStyle" xmi:id="_OjRIM69mEeiBzMZl1Wu_vA"/>
+        <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_OjRINK9mEeiBzMZl1Wu_vA"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:Form" href="Structure%20Diagram.sl#qml244b383aa0df4efabae40f523ffa22fc"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_OjRINa9mEeiBzMZl1Wu_vA" x="20" y="183" width="396" height="181"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_5mbscK9mEeiBzMZl1Wu_vA" type="3014">
+        <children xmi:type="notation:DecorationNode" xmi:id="_5mcTgK9mEeiBzMZl1Wu_vA" type="5016"/>
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="_5mbsca9mEeiBzMZl1Wu_vA"/>
+        <styles xmi:type="notation:FontStyle" xmi:id="_5mbscq9mEeiBzMZl1Wu_vA" fontName="Ubuntu"/>
+        <styles xmi:type="notation:LineStyle" xmi:id="_5mbsc69mEeiBzMZl1Wu_vA"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:Button" href="Structure%20Diagram.sl#qml39e2d2cf91024947a6e0fbf24e743350"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5mbsdK9mEeiBzMZl1Wu_vA" x="75" y="385"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_cO9NYK9sEeiK_7q-RU9GHA" type="3069">
+        <children xmi:type="notation:DecorationNode" xmi:id="_cO-bgK9sEeiK_7q-RU9GHA" type="5109"/>
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="_cO9NYa9sEeiK_7q-RU9GHA"/>
+        <styles xmi:type="notation:FillStyle" xmi:id="_cO9NYq9sEeiK_7q-RU9GHA"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:LabelWidget" href="Structure%20Diagram.sl#qml72b290d6f7ea4f47b66535013219651b"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_cO9NY69sEeiK_7q-RU9GHA" x="203" y="404"/>
+      </children>
+    </children>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_yaPoAa9lEeiBzMZl1Wu_vA"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_yaPoAq9lEeiBzMZl1Wu_vA" fontName="Ubuntu"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_yaPoA69lEeiBzMZl1Wu_vA"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_yaPoBK9lEeiBzMZl1Wu_vA"/>
+    <element xmi:type="com.conformiq.creator.structure.dsl:Screen" href="Structure%20Diagram.sl#qml06fe8a2ff5f44a7492689f76bafd5863"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_yaPoBa9lEeiBzMZl1Wu_vA" x="105" y="430" width="434" height="491"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_DdBzkK9mEeiBzMZl1Wu_vA" type="2005">
+    <children xmi:type="notation:DecorationNode" xmi:id="_DdCaoK9mEeiBzMZl1Wu_vA" type="5047"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_DdCaoa9mEeiBzMZl1Wu_vA" type="7021">
+      <children xmi:type="notation:Shape" xmi:id="_FEL-oK9mEeiBzMZl1Wu_vA" type="3042" fontName="Ubuntu">
+        <children xmi:type="notation:DecorationNode" xmi:id="_FEMlsK9mEeiBzMZl1Wu_vA" type="5046"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:EnumerationValue" href="Structure%20Diagram.sl#qml5e6378a58cf540368a3d76daffdc0542"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_FEL-oa9mEeiBzMZl1Wu_vA"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_FxLngK9mEeiBzMZl1Wu_vA" type="3042" fontName="Ubuntu">
+        <children xmi:type="notation:DecorationNode" xmi:id="_FxMOkK9mEeiBzMZl1Wu_vA" type="5046"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:EnumerationValue" href="Structure%20Diagram.sl#qml62bc4e37203a4292bcf6877f32459b49"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_FxLnga9mEeiBzMZl1Wu_vA"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_HkAQAK9mEeiBzMZl1Wu_vA" type="3042" fontName="Ubuntu">
+        <children xmi:type="notation:DecorationNode" xmi:id="_HkBeIK9mEeiBzMZl1Wu_vA" type="5046"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:EnumerationValue" href="Structure%20Diagram.sl#qml5d29d92e86f74354acfd42d8ec62701a"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_HkAQAa9mEeiBzMZl1Wu_vA"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_JGtY4K9mEeiBzMZl1Wu_vA" type="3042" fontName="Ubuntu">
+        <children xmi:type="notation:DecorationNode" xmi:id="_JGt_8K9mEeiBzMZl1Wu_vA" type="5046"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:EnumerationValue" href="Structure%20Diagram.sl#qml5a2de3c834bb434e88e8668216b27eb3"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JGtY4a9mEeiBzMZl1Wu_vA"/>
+      </children>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_DdCaoq9mEeiBzMZl1Wu_vA"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_DdCao69mEeiBzMZl1Wu_vA"/>
+    </children>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_DdBzka9mEeiBzMZl1Wu_vA"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_DdBzkq9mEeiBzMZl1Wu_vA" fontName="Ubuntu"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_DdBzk69mEeiBzMZl1Wu_vA"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_DdBzlK9mEeiBzMZl1Wu_vA"/>
+    <element xmi:type="com.conformiq.creator.structure.dsl:Enumeration" href="Structure%20Diagram.sl#qml9e4e92a803df4240adb161728f67e308"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_DdBzla9mEeiBzMZl1Wu_vA" x="575" y="562" height="114"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_kP83EK9mEeiBzMZl1Wu_vA" type="2005">
+    <children xmi:type="notation:DecorationNode" xmi:id="_kP9eIK9mEeiBzMZl1Wu_vA" type="5047"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_kP9eIa9mEeiBzMZl1Wu_vA" type="7021">
+      <children xmi:type="notation:Shape" xmi:id="_nEcX8K9mEeiBzMZl1Wu_vA" type="3042" fontName="Ubuntu">
+        <children xmi:type="notation:DecorationNode" xmi:id="_nEc_AK9mEeiBzMZl1Wu_vA" type="5046"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:EnumerationValue" href="Structure%20Diagram.sl#qml234e9aeb6b1a49f89f3f5d8d2446150d"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_nEcX8a9mEeiBzMZl1Wu_vA"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_n-0VgK9mEeiBzMZl1Wu_vA" type="3042" fontName="Ubuntu">
+        <children xmi:type="notation:DecorationNode" xmi:id="_n-0Vgq9mEeiBzMZl1Wu_vA" type="5046"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:EnumerationValue" href="Structure%20Diagram.sl#qml8338e4a200e24c97814ea5f3e10de815"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_n-0Vga9mEeiBzMZl1Wu_vA"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_oq-38K9mEeiBzMZl1Wu_vA" type="3042" fontName="Ubuntu">
+        <children xmi:type="notation:DecorationNode" xmi:id="_oq_fAa9mEeiBzMZl1Wu_vA" type="5046"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:EnumerationValue" href="Structure%20Diagram.sl#qml0918d2d93ec6465ebc6deb8d1c15e4a7"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_oq_fAK9mEeiBzMZl1Wu_vA"/>
+      </children>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_kP9eIq9mEeiBzMZl1Wu_vA"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_kP9eI69mEeiBzMZl1Wu_vA"/>
+    </children>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_kP83Ea9mEeiBzMZl1Wu_vA"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_kP83Eq9mEeiBzMZl1Wu_vA" fontName="Ubuntu"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_kP83E69mEeiBzMZl1Wu_vA"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_kP83FK9mEeiBzMZl1Wu_vA"/>
+    <element xmi:type="com.conformiq.creator.structure.dsl:Enumeration" href="Structure%20Diagram.sl#qml8a74f62a03db4822b9351a38de4c35f9"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_kP83Fa9mEeiBzMZl1Wu_vA" x="575" y="805" height="91"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_s-1SwK9mEeiBzMZl1Wu_vA" type="2005">
+    <children xmi:type="notation:DecorationNode" xmi:id="_s-150K9mEeiBzMZl1Wu_vA" type="5047"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_s-150a9mEeiBzMZl1Wu_vA" type="7021">
+      <children xmi:type="notation:Shape" xmi:id="_vK0CIK9mEeiBzMZl1Wu_vA" type="3042" fontName="Ubuntu">
+        <children xmi:type="notation:DecorationNode" xmi:id="_vK0pMK9mEeiBzMZl1Wu_vA" type="5046"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:EnumerationValue" href="Structure%20Diagram.sl#qml8b76c5afc9294422870e438decc16ce6"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vK0CIa9mEeiBzMZl1Wu_vA"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_wvwmsK9mEeiBzMZl1Wu_vA" type="3042" fontName="Ubuntu">
+        <children xmi:type="notation:DecorationNode" xmi:id="_wvwmsq9mEeiBzMZl1Wu_vA" type="5046"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:EnumerationValue" href="Structure%20Diagram.sl#qmlf4f813b345bd4e57bf7f761a823b2453"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wvwmsa9mEeiBzMZl1Wu_vA"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_xp4soK9mEeiBzMZl1Wu_vA" type="3042" fontName="Ubuntu">
+        <children xmi:type="notation:DecorationNode" xmi:id="_xp5TsK9mEeiBzMZl1Wu_vA" type="5046"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:EnumerationValue" href="Structure%20Diagram.sl#qml8d96b7e584c54647b192655bdf3ed7c2"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xp4soa9mEeiBzMZl1Wu_vA"/>
+      </children>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_s-150q9mEeiBzMZl1Wu_vA"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_s-15069mEeiBzMZl1Wu_vA"/>
+    </children>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_s-1Swa9mEeiBzMZl1Wu_vA"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_s-1Swq9mEeiBzMZl1Wu_vA" fontName="Ubuntu"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_s-1Sw69mEeiBzMZl1Wu_vA"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_s-1SxK9mEeiBzMZl1Wu_vA"/>
+    <element xmi:type="com.conformiq.creator.structure.dsl:Enumeration" href="Structure%20Diagram.sl#qmle2940a1b1d3b400696107e096f6430b7"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_s-1Sxa9mEeiBzMZl1Wu_vA" x="585" y="695"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_pmIC0K9sEeiK_7q-RU9GHA" type="2003">
+    <children xmi:type="notation:DecorationNode" xmi:id="_pmIp4K9sEeiK_7q-RU9GHA" type="5037"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_pmIp4a9sEeiK_7q-RU9GHA" type="7003">
+      <children xmi:type="notation:Node" xmi:id="_tnowcK9sEeiK_7q-RU9GHA" type="3034">
+        <children xmi:type="notation:DecorationNode" xmi:id="_tnpXgK9sEeiK_7q-RU9GHA" type="5036"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_tnpXga9sEeiK_7q-RU9GHA" type="5056"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_tnp-kK9sEeiK_7q-RU9GHA" type="7025"/>
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="_tnowca9sEeiK_7q-RU9GHA"/>
+        <styles xmi:type="notation:FontStyle" xmi:id="_tnowcq9sEeiK_7q-RU9GHA" fontName="Ubuntu"/>
+        <styles xmi:type="notation:LineStyle" xmi:id="_tnowc69sEeiK_7q-RU9GHA"/>
+        <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_tnowdK9sEeiK_7q-RU9GHA"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:UITable" href="Structure%20Diagram.sl#qml1f2755c40d214072be6fe6d3babe14a2"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tnowda9sEeiK_7q-RU9GHA" x="78" y="27"/>
+      </children>
+    </children>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_pmIC0a9sEeiK_7q-RU9GHA"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_pmIC0q9sEeiK_7q-RU9GHA" fontName="Ubuntu"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_pmIC069sEeiK_7q-RU9GHA"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_pmIC1K9sEeiK_7q-RU9GHA"/>
+    <element xmi:type="com.conformiq.creator.structure.dsl:Screen" href="Structure%20Diagram.sl#qml85faa4626a374912acb853f079878c5c"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_pmIC1a9sEeiK_7q-RU9GHA" x="50" y="960" width="371" height="216"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_wVe2wK9sEeiK_7q-RU9GHA" type="2002">
+    <children xmi:type="notation:DecorationNode" xmi:id="_wVfd1a9sEeiK_7q-RU9GHA" type="5008"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_wVfd1q9sEeiK_7q-RU9GHA" type="7002">
+      <children xmi:type="notation:Shape" xmi:id="_zjMv8K9sEeiK_7q-RU9GHA" type="3003" fontName="Ubuntu">
+        <children xmi:type="notation:DecorationNode" xmi:id="_zjNXAK9sEeiK_7q-RU9GHA" type="5004"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_zjNXAa9sEeiK_7q-RU9GHA" type="5062"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:PrimitiveCell" href="Structure%20Diagram.sl#qmlc28c67e579fb4f68bb0764839ab68f04"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zjMv8a9sEeiK_7q-RU9GHA"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_3GnMUK9sEeiK_7q-RU9GHA" type="3003" fontName="Ubuntu">
+        <children xmi:type="notation:DecorationNode" xmi:id="_3GnzYK9sEeiK_7q-RU9GHA" type="5004"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_3GnzYa9sEeiK_7q-RU9GHA" type="5062"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:PrimitiveCell" href="Structure%20Diagram.sl#qmlcf7f589788e4459cb3fd79441b25fa2c"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3GnMUa9sEeiK_7q-RU9GHA"/>
+      </children>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_wVfd169sEeiK_7q-RU9GHA"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_wVfd2K9sEeiK_7q-RU9GHA"/>
+    </children>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_wVfd0K9sEeiK_7q-RU9GHA"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_wVfd0a9sEeiK_7q-RU9GHA" fontName="Ubuntu"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_wVfd0q9sEeiK_7q-RU9GHA"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_wVfd069sEeiK_7q-RU9GHA"/>
+    <element xmi:type="com.conformiq.creator.structure.dsl:DataTable" href="Structure%20Diagram.sl#qmla31a4b921ed04e38b98801614cace60e"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wVfd1K9sEeiK_7q-RU9GHA" x="490" y="1002"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_PGUGsK9tEeiK_7q-RU9GHA" type="2003">
+    <children xmi:type="notation:DecorationNode" xmi:id="_PGUtwK9tEeiK_7q-RU9GHA" type="5037"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_PGUtwa9tEeiK_7q-RU9GHA" type="7003">
+      <children xmi:type="notation:Node" xmi:id="_a-mjUK9tEeiK_7q-RU9GHA" type="3016">
+        <children xmi:type="notation:DecorationNode" xmi:id="_a-nKYK9tEeiK_7q-RU9GHA" type="5019"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_a-nKYa9tEeiK_7q-RU9GHA" type="7005">
+          <children xmi:type="notation:Node" xmi:id="_8VB8gK9tEeiK_7q-RU9GHA" type="3017">
+            <children xmi:type="notation:DecorationNode" xmi:id="_8VCjkK9tEeiK_7q-RU9GHA" type="5018"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_8VCjka9tEeiK_7q-RU9GHA" type="7022">
+              <children xmi:type="notation:Shape" xmi:id="_9qmWYK9vEeiK_7q-RU9GHA" type="3043" fontName="Ubuntu">
+                <children xmi:type="notation:DecorationNode" xmi:id="_9qmWYq9vEeiK_7q-RU9GHA" type="5066"/>
+                <element xmi:type="com.conformiq.creator.structure.dsl:ClickChoice" href="Structure%20Diagram.sl#qml1dea31865a8f4ce3bccdab09e3a2b6e7"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9qmWYa9vEeiK_7q-RU9GHA"/>
+              </children>
+              <children xmi:type="notation:Shape" xmi:id="_tPwpsK9xEeiK_7q-RU9GHA" type="3043" fontName="Ubuntu">
+                <children xmi:type="notation:DecorationNode" xmi:id="_tPxQwK9xEeiK_7q-RU9GHA" type="5066"/>
+                <element xmi:type="com.conformiq.creator.structure.dsl:ClickChoice" href="Structure%20Diagram.sl#qmlbf8324bcffef47c6bde02bd9e37fd3ad"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tPwpsa9xEeiK_7q-RU9GHA"/>
+              </children>
+              <styles xmi:type="notation:SortingStyle" xmi:id="_8VCjkq9tEeiK_7q-RU9GHA"/>
+              <styles xmi:type="notation:FilteringStyle" xmi:id="_8VCjk69tEeiK_7q-RU9GHA"/>
+            </children>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_8VB8ga9tEeiK_7q-RU9GHA"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_8VB8gq9tEeiK_7q-RU9GHA" fontName="Ubuntu"/>
+            <styles xmi:type="notation:LineStyle" xmi:id="_8VB8g69tEeiK_7q-RU9GHA"/>
+            <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_8VB8hK9tEeiK_7q-RU9GHA"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:Menu" href="Structure%20Diagram.sl#qmlcefc082f507448be9c57538e43cffa4b"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_8VB8ha9tEeiK_7q-RU9GHA"/>
+          </children>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_a-nKYq9tEeiK_7q-RU9GHA"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_a-nKY69tEeiK_7q-RU9GHA"/>
+        </children>
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="_a-mjUa9tEeiK_7q-RU9GHA"/>
+        <styles xmi:type="notation:FontStyle" xmi:id="_a-mjUq9tEeiK_7q-RU9GHA" fontName="Ubuntu"/>
+        <styles xmi:type="notation:LineStyle" xmi:id="_a-mjU69tEeiK_7q-RU9GHA"/>
+        <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_a-mjVK9tEeiK_7q-RU9GHA"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:MenuBar" href="Structure%20Diagram.sl#qml2d76e4e728f1425bb4761c1505c3fce3"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_a-mjVa9tEeiK_7q-RU9GHA" x="30" y="78" width="316" height="156"/>
+      </children>
+    </children>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_PGUGsa9tEeiK_7q-RU9GHA"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_PGUGsq9tEeiK_7q-RU9GHA" fontName="Ubuntu"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_PGUGs69tEeiK_7q-RU9GHA"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_PGUGtK9tEeiK_7q-RU9GHA"/>
+    <element xmi:type="com.conformiq.creator.structure.dsl:Screen" href="Structure%20Diagram.sl#qml022dc162b48b4e8b8564f5397af8d6d9"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_PGUGta9tEeiK_7q-RU9GHA" x="735" y="445" width="376" height="331"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_-hM8UK9xEeiK_7q-RU9GHA" type="2003">
+    <children xmi:type="notation:DecorationNode" xmi:id="_-hNjYK9xEeiK_7q-RU9GHA" type="5037"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_-hNjYa9xEeiK_7q-RU9GHA" type="7003"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_-hM8Ua9xEeiK_7q-RU9GHA"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_-hM8Uq9xEeiK_7q-RU9GHA" fontName="Ubuntu"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_-hM8U69xEeiK_7q-RU9GHA"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_-hM8VK9xEeiK_7q-RU9GHA"/>
+    <element xmi:type="com.conformiq.creator.structure.dsl:Screen" href="Structure%20Diagram.sl#qml56fa90cefc6e4695b3a69cb5f2b3d27c"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-hM8Va9xEeiK_7q-RU9GHA" x="775" y="835" width="121" height="76"/>
+  </children>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_E34D8a9FEei5Oc5GkzzHBg"/>
+  <element xmi:type="com.conformiq.creator.structure.dsl:Model" href="Structure%20Diagram.sl#/"/>
+  <edges xmi:type="notation:Edge" xmi:id="_EMZbAK9mEeiBzMZl1Wu_vA" type="4006" source="_B5TXAK9mEeiBzMZl1Wu_vA" target="_DdBzkK9mEeiBzMZl1Wu_vA">
+    <children xmi:type="notation:DecorationNode" xmi:id="_EMaCEK9mEeiBzMZl1Wu_vA" type="6004">
+      <styles xmi:type="notation:DescriptionStyle" xmi:id="_EMaCEa9mEeiBzMZl1Wu_vA"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_EMapIK9mEeiBzMZl1Wu_vA" y="40"/>
+    </children>
+    <styles xmi:type="notation:RoutingStyle" xmi:id="_EMZbAa9mEeiBzMZl1Wu_vA"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_EMZbAq9mEeiBzMZl1Wu_vA" fontName="Ubuntu"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_EMZbA69mEeiBzMZl1Wu_vA" points="[0, 0, -367, 30]$[302, -38, -65, -8]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_EMndcK9mEeiBzMZl1Wu_vA" id="(1.0,0.95)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_rMvqEK9mEeiBzMZl1Wu_vA" type="4005" source="_Zmng4K9mEeiBzMZl1Wu_vA" target="_kP83EK9mEeiBzMZl1Wu_vA">
+    <children xmi:type="notation:DecorationNode" xmi:id="_rMw4MK9mEeiBzMZl1Wu_vA" type="6003">
+      <styles xmi:type="notation:DescriptionStyle" xmi:id="_rMw4Ma9mEeiBzMZl1Wu_vA"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_rMw4Mq9mEeiBzMZl1Wu_vA" y="40"/>
+    </children>
+    <styles xmi:type="notation:RoutingStyle" xmi:id="_rMvqEa9mEeiBzMZl1Wu_vA"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_rMwRIK9mEeiBzMZl1Wu_vA" fontName="Ubuntu"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_rMwRIa9mEeiBzMZl1Wu_vA" points="[0, 0, -326, 54]$[320, -63, -6, -9]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_rNFBQK9mEeiBzMZl1Wu_vA" id="(1.0,0.875)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_rNFBQa9mEeiBzMZl1Wu_vA" id="(0.2897196261682243,0.0989010989010989)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_tuRLoK9mEeiBzMZl1Wu_vA" type="4005" source="_bDPP4K9mEeiBzMZl1Wu_vA" target="_s-1SwK9mEeiBzMZl1Wu_vA">
+    <children xmi:type="notation:DecorationNode" xmi:id="_tuRLpK9mEeiBzMZl1Wu_vA" type="6003">
+      <styles xmi:type="notation:DescriptionStyle" xmi:id="_tuRLpa9mEeiBzMZl1Wu_vA"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_tuRysK9mEeiBzMZl1Wu_vA" y="40"/>
+    </children>
+    <styles xmi:type="notation:RoutingStyle" xmi:id="_tuRLoa9mEeiBzMZl1Wu_vA"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_tuRLoq9mEeiBzMZl1Wu_vA" fontName="Ubuntu"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_tuRLo69mEeiBzMZl1Wu_vA" points="[0, 0, -376, 66]$[351, -73, -25, -7]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_tuTn4K9mEeiBzMZl1Wu_vA" id="(0.22282608695652173,0.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_tuUO8K9mEeiBzMZl1Wu_vA" id="(0.21929824561403508,0.3)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_xCftwK9sEeiK_7q-RU9GHA" type="4004" source="_tnowcK9sEeiK_7q-RU9GHA" target="_wVe2wK9sEeiK_7q-RU9GHA">
+    <children xmi:type="notation:DecorationNode" xmi:id="_xCgU0K9sEeiK_7q-RU9GHA" type="6002">
+      <styles xmi:type="notation:DescriptionStyle" xmi:id="_xCgU0a9sEeiK_7q-RU9GHA"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_xCgU0q9sEeiK_7q-RU9GHA" y="40"/>
+    </children>
+    <styles xmi:type="notation:RoutingStyle" xmi:id="_xCftwa9sEeiK_7q-RU9GHA"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_xCftwq9sEeiK_7q-RU9GHA" fontName="Ubuntu"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_xCftw69sEeiK_7q-RU9GHA" points="[0, 0, -158, 37]$[139, -39, -19, -2]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_xCmbcK9sEeiK_7q-RU9GHA" id="(1.0,0.5932203389830508)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_xCmbca9sEeiK_7q-RU9GHA" id="(0.08636363636363636,0.375)"/>
+  </edges>
+</notation:Diagram>
